@@ -1,0 +1,78 @@
+/*HEADER*/
+.header-background {
+  width: auto;
+  height: 188.19px;;
+  background-color: #e6e6e6;
+  background-image:url(../img/Seba.jpg);
+  background-repeat: no-repeat;
+  background-size: 120px;
+  background-position: center;
+}
+/*MAIN*/
+
+.title-h1 {
+  height: 60px;
+  background-color: #C4C4C4;
+  font-family: 'Times New Roman';
+  font-weight: 700;
+  font-size: 35px;
+  line-height : 1.5em;
+  color: #005677;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  
+}
+
+.title-h2 {
+  height: 30px;
+  background-color: #C4C4C4;
+  font-family: 'Times New Roman';
+  font-weight: 700;
+  font-size: 20px;
+  line-height : 1.5em;
+  color: #005677;
+  justify-content: left;
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+}
+
+  li span {
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  ul span {
+    font-weight: bold;
+  }
+
+  /*FOOTER*/
+
+  .config-footer {
+    size: 37px;
+    background-color: #005677;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+  }
+  
+  .icon-instagram {
+    width: 15px;
+    height: 15px;
+    margin-left: 26px;
+    margin-top: 5px;
+  }
+  .icon-linkedin {
+    width: 15px;
+    height: 15px;
+    margin-left: 26px;
+    margin-top: 5px;
+  }
+  .icon-github {
+    width: 15px;
+    height: 15px;
+    margin-left: 26px;
+  }
